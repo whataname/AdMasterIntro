@@ -1,7 +1,7 @@
-Setup a basic environment for web devlopment
+Setup a initiatory environment for web devlopment
 ============================================
 
-This tutorial will teach you how to setup a basic environment for web devlopment, follow the steps and you will get exactly these:
+This tutorial will teach you how to setup a environment for web devlopment with basic tools, follow the steps and you will get exactly these:
 
 * Ubuntu
 * Python + pip + virtualenv
@@ -62,7 +62,7 @@ This gives you vim and config then. Add the following to `vimrc`(Mine's at `/etc
 
 Google for some other settings and choose what you like.
 
-**Something about Vim**
+**Something about Vim**  
 I don't think it's a good idea to make Vim a giant IDE, though many people do and have their reasons. It's just a smart text editor, convieniant for small changes, or used in ssh. You don't need to put your project in Vim, IDEs do that, will you someday write a mass of code on your production server via ssh?
 So what you need is just, like
 
