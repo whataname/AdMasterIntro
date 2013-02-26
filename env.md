@@ -67,7 +67,7 @@ I don't think it's a good idea to make Vim a giant IDE, though many people do an
 So what you need is just, like
 
 * Fast cursor movements
-* Skills and tricks of editing, like cut, copy, paste, insert.
+* Skills and tricks of editing, like select, cut, copy, paste, insert.
 
 Learn done.
 
