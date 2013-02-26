@@ -14,9 +14,12 @@ This tutorial will teach you how to setup a basic environment for web devlopment
 1. Ubuntu + Python
 ==================
 
-This is quite easy, download [ubuntu](http://www.ubuntu.com), burn it on a CD or USB and follow the instructions. Well, and you may use wubi.
+This is quite easy, download [ubuntu][1], burn it on a CD or USB and follow the instructions. Well, and you may use wubi.
 
 2. zshell & oh-my-zsh
 =====================
 
-Zshell is a substitution for bash, people say it"'"s better, but if you are satisfied with bash, skip this.
+Zshell is a substitution for bash, people say it's better, but if you are satisfied with bash, skip this.
+
+
+[1]: http://www.ubuntu.com/ "Ubuntu"
